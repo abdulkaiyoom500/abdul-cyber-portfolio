@@ -1,0 +1,16 @@
+# OMNeT++ build output & binaries
+**/out/
+**/*.o
+**/IoTSecuritySimulation
+**/IoTSecuritySimulation_dbg
+
+# Certificates & private keys (never commit real ones)
+**/*.key
+**/*.crt
+**/*.csr
+**/certs/
+**/SSL,TLS certificates/
+
+# Editor/IDE files
+**/.settings/
+**/.project

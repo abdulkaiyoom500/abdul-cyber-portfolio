@@ -1,0 +1,1 @@
+Place extra Mosquitto snippets here (e.g., auth plugins). This folder is included by mosquitto.conf via `include_dir`.
