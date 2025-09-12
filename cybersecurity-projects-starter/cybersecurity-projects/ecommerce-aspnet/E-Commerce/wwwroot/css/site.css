@@ -1,0 +1,134 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /*padding-top: 20px;*/
+    /*padding-bottom: 20px;*/
+    background-image: url("/images/background2.png");
+}
+
+/*footer */
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f5f5f5;
+}
+
+/*navbar */
+.navbar-brand {
+    font-size: 1.8em;
+}
+
+/*search bar and button */
+.form-inline .form-control {
+    margin-right: 10px;
+}
+
+
+footer a.text-white:hover {
+    text-decoration: underline;
+}
+
+footer h5 {
+    margin-bottom: 20px;
+}
+
+footer p, footer a {
+    font-size: 1.5 rem;
+}
+
+/* navbar and footer */
+.navbar-dark.bg-dark {
+    background-color: #ff0000 !important; 
+}
+
+footer.bg-dark {
+    background-color: #ff0000 !important; 
+}
+
+
+.text-purple {
+    color: #ffffff; 
+}
+
+.text-red {
+    color: #ff0000;
+}
+
+.text-purple p {
+    font-size: 20px;
+
+/*carousel*/
+.carousel-item img {
+    margin: 0 auto;
+}
+
+.carousel-img {
+    width: 300px; 
+    height: 200px;
+    object-fit: contain;
+}
+
+
+
+.about-us-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+
+.company-info, .customer-reviews, .office-location, .owners {
+    margin-bottom: 30px;
+    background-color: #f3e8ff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+    .company-info img, .office-location img, .owners img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-top: 15px;
+    }
+
+.review blockquote {
+    font-style: italic;
+}
+
+.review p {
+    text-align: right;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.logo {
+    height: 60px; 
+    width: 200px; 
+}
+
+h2 {
+    color: red;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #000000 !important;
+}
+
