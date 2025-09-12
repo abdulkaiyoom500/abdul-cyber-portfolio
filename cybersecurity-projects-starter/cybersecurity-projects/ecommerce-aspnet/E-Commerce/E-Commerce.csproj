@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>E_Commerce</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\AdminFolder\**" />
+    <Compile Remove="Pages\ProductsFolder\**" />
+    <Compile Remove="wwwroot\moodboardimages\**" />
+    <Content Remove="Pages\AdminFolder\**" />
+    <Content Remove="Pages\ProductsFolder\**" />
+    <Content Remove="wwwroot\moodboardimages\**" />
+    <EmbeddedResource Remove="Pages\AdminFolder\**" />
+    <EmbeddedResource Remove="Pages\ProductsFolder\**" />
+    <EmbeddedResource Remove="wwwroot\moodboardimages\**" />
+    <None Remove="Pages\AdminFolder\**" />
+    <None Remove="Pages\ProductsFolder\**" />
+    <None Remove="wwwroot\moodboardimages\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Category.cs" />
+    <Compile Remove="Pages\Contact.cshtml.cs" />
+    <Compile Remove="Pages\Product.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\AboutUs.razor" />
+    <Content Remove="Pages\Contact.cshtml" />
+    <Content Remove="Pages\Product.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>
