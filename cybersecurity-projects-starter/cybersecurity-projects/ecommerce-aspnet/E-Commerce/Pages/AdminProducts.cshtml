@@ -1,0 +1,30 @@
+﻿@page
+@model E_Commerce.Pages.AdminProductsModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/product.css" />
+
+
+<div class="add-product-button">
+    <a href="./addProduct" class="btn add-btn">Add New Products</a>
+</div>
+
+<div class="flex-container">
+    @foreach (var product in Model.ProductList)
+    {
+        <div class="card admin-card">
+            <div class="card-img" style="background-image: url('@product.ImagePath');"></div>
+            <div class="card-body"> <h5 class="card-title">@product.Name</h5></div>
+            <div class="card-body"> <h5 class="card-title">@product.Price</h5></div>
+            <div class="card-body"><h5 class="card-title">@product.Category</h5></div>
+            <div class="card-body"><h5 class="card-title">@product.Description</h5></div>
+
+            <a href="./addProduct?id=@product.Id" role="button" class="update-btn">Update</a>
+            <form action="" method="post">
+                <input type="hidden" name="productId" value="@product.Id" />
+                <button type="submit" class="delete-btn">Delete</button>
+            </form>
+        </div>
+    }
+</div>

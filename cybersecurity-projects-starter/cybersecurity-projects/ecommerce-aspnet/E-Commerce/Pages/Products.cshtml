@@ -1,0 +1,31 @@
+﻿@page
+@model E_Commerce.Pages.ProductsModel
+@{
+}
+
+
+<link rel="stylesheet" href="~/css/product.css" />
+
+
+@foreach (var category in Model.ProductsByCategory)
+{
+    <h2>@category.Key</h2> 
+    <div class="flex-container">
+        @foreach (var product in category.Value) 
+        {
+            <form method="post">
+                <div class="card">
+                    <div class="card-img" style="background-image: url('@product.ImagePath');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <h5 class="card-title">@product.Price</h5>
+                        <h5 class="card-title">@product.Description</h5>
+                        <h5 class="card-title">@product.Category</h5>
+                    </div>
+                    <input type="hidden" name="ProductId" value="@product.Id" />
+                    <button type="submit" asp-page-handler="AddToCart">Add To Cart</button>
+                </div>
+            </form>
+        }
+    </div>
+}

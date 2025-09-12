@@ -1,0 +1,47 @@
+﻿<h3>AboutUs</h3>
+
+@code {
+
+}
+@page
+@model AboutUsModel
+@{
+    ViewData["Title"] = "About Us";
+}
+
+<div class="about-us-container">
+    <h2 class="text-center text-purple">About Mr. Robot E-commerce</h2>
+    
+    <!-- Company Achievements and Facilities -->
+    <section class="company-info">
+        <h3>Our Achievements and Facilities</h3>
+        <p>
+            [Insert paragraph about company's achievements, history, and the facilities it provides.]
+        </p>
+        <img src="~/images/office.jpg" alt="Office Picture" class="img-fluid">
+    </section>
+    
+    <!-- Customer Reviews -->
+    <section class="customer-reviews">
+        <h3>What Our Customers Say</h3>
+        <div class="review">
+            <blockquote>"[Insert customer review here]"</blockquote>
+            <p>- Customer Name</p>
+        </div>
+        <!-- Add more <div class="review"> blocks for additional reviews -->
+    </section>
+    
+    <!-- Company's Office Location -->
+    <section class="office-location">
+        <h3>Our Office</h3>
+        <p>[Insert office location address]</p>
+        <img src="~/images/office-location.jpg" alt="Office Location Map" class="img-fluid">
+    </section>
+    
+    <!-- Owners and Establishment Date -->
+    <section class="owners">
+        <h3>Meet Our Founders</h3>
+        <p>Established on [Insert Date]</p>
+        <img src="~/images/owners.jpg" alt="Owners Picture" class="img-fluid">
+    </section>
+</div>

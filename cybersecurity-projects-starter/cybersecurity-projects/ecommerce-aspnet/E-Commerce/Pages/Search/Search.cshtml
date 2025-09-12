@@ -1,0 +1,19 @@
+﻿@page
+@model SearchModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/CartSearchLoginRegister.css">
+
+
+<div class="search-result-container">
+    @foreach (var product in Model.SearchResults)
+    {
+        <div class="search-result-item">
+            <img src="@product.ImagePath" alt="@product.Name">
+            <h2>@product.Name</h2>
+            <p>@product.Description</p>
+            <p class="search-price">Price: @product.Price</p>
+        </div>
+    }
+</div>

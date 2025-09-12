@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1 class="text-red">Welcome to Our Cybersecurity Products Store</h1>
+
+<link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="images/indexslideshowimg1.png" style="width: 300px; height: 600px; object-fit: cover;" class="d-block w-100 carousel-img" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="images/indexslideshowimg2.png" style="width: 300px; height: 600px; object-fit: cover;" class="d-block w-100 carousel-img" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="images/indexslideshowimg3.png" style="width: 300px; height: 600px; object-fit: cover;" class="d-block w-100 carousel-img" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="images/indexslideshowimg4.jpg" style="width: 300px; height: 600px; object-fit: cover;" class="d-block w-100 carousel-img" alt="...">
+        </div>
+        
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<section class="mt-4">
+    <article class="text-purple">
+        <h2>Advanced Firewall Protection</h2>
+        <p>Our advanced firewall protection system ensures safe browsing and protects against unauthorized intrusions.</p>
+        <p>Advanced Firewall Protection combines state-of-the-art packet filtering, deep packet inspection, and network intrusion detection techniques to safeguard networks from sophisticated cyber threats, unauthorized access, and malicious traffic, ensuring robust and adaptive security for modern digital infrastructures.</p>
+        <img src="images/article1.png" alt="Firewall Protection" class="img-fluid">
+    </article>
+
+    <article class="text-purple mt-3">
+        <h2>Endpoint Security Solutions</h2>
+        <p>Protect your network's entry points with our robust endpoint security solutions, designed to detect and neutralize threats promptly.</p>
+        <p>Endpoint Security Solutions are comprehensive security platforms designed to protect endpoints such as desktops, laptops, and mobile devices from malware, cyber attacks, and unauthorized access. These solutions typically include antivirus, anti-malware, firewall, and intrusion prevention systems, and often feature advanced capabilities like behavioral analysis and threat intelligence integration to defend against evolving cyber threats.</p>
+        <img src="images/article2.jpg" alt="Endpoint Security" class="img-fluid">
+    </article>
+
+    <article class="text-purple mt-3">
+        <h2>Data Encryption Services</h2>
+        <p>Our data encryption services ensure your sensitive information is protected, whether at rest or in transit, from breaches and theft.</p>
+        <p>Data Encryption Services provide robust security measures by converting sensitive information into encoded formats that can only be accessed and deciphered by authorized users with decryption keys. These services are essential in protecting data at rest, in transit, and during exchanges, safeguarding against unauthorized access, data breaches, and cyber threats, thereby ensuring confidentiality and compliance with privacy regulations.</p>
+        <img src="images/article3.jpg" alt="Data Encryption" class="img-fluid">
+    </article>
+</section>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

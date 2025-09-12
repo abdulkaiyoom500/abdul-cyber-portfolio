@@ -1,0 +1,35 @@
+﻿@page
+@model E_Commerce.Pages.addProductModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/product.css" />
+
+<div class="form-container">
+    <div class="form-box">
+        <h2 class="title">Add New Products Here</h2>
+        <form action="" method="post">
+            <label for="pname" asp-for="@Model.Product.Name">Product Name: </label><br>
+
+            <input type="text" asp-for="@Model.Product.Name" id="pname" /><br><br>
+
+            <label for="pdescription" asp-for="@Model.Product.Description">Description: </label><br>
+
+            <input type="text" asp-for="@Model.Product.Description" id="pdescription"><br><br>
+
+            <label for="price" asp-for="@Model.Product.Price">Price:</label><br>
+
+            <input type="text" asp-for="@Model.Product.Price" id="price" value=""><br><br>
+
+            <label for="pimage" asp-for="@Model.Product.ImagePath">Image Name: </label><br>
+
+            <input type="text" asp-for="@Model.Product.ImagePath" id="pimage" value=""><br><br>
+
+            <label for="pcatgoryname" asp-for="@Model.Product.Category">Category </label><br>
+
+            <input type="text" asp-for="@Model.Product.Category" id="pcatgoryname" value=""><br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</div>

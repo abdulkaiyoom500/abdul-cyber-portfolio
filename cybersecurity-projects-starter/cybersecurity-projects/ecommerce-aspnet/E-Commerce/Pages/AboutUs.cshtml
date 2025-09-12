@@ -1,0 +1,69 @@
+﻿@page
+@model E_Commerce.Pages.AboutUsModel
+@{
+    ViewData["Title"] = "About Us";
+}
+
+<div class="about-us-container">
+    <h2 class="text-center text-red">About Mr. Robot E-commerce</h2>
+    
+    <section class="company-info">
+        <h3 class="text-red">Our Achievements and Facilities</h3>
+        <p class="text-red">
+            Founded in March 2000, Mr.Robot has emerged as a leader in the cybersecurity industry, offering an extensive portfolio of products through its sophisticated e-commerce platform. Our company is renowned for pioneering advanced cybersecurity solutions, such as firewall protection, endpoint security, and data encryption services. With a commitment to innovation and excellence, we have earned recognition for our contributions to cybersecurity. Mr.Robot prides itself on delivering unparalleled customer support and tailor-made security solutions, ensuring robust defense mechanisms for businesses and individuals against evolving digital threats.
+        </p>
+        <img src="~/images/Mr.Robotoffice.jpeg" alt="Office Picture" class="img-fluid">
+    </section>
+    
+    
+    <section class="customer-reviews">
+        <h3 class="text-red">What Our Customers Say</h3>
+        <div class="review">
+            <blockquote class="text-red">"Mr.Robot's firewall solution is a game-changer for our business's security needs."</blockquote>
+            <p class="text-red">- James Peterson</p>
+        </div>
+        <div class="review">
+            <blockquote class="text-red">"Unmatched customer service and cutting-edge products; highly recommend Mr.Robot."</blockquote>
+            <p class="text-red">- Sarah Kim</p>
+        </div>
+        <div class="review">
+            <blockquote class="text-red">"Mr.Robot turned our cybersecurity concerns into assurances with their top-tier solutions."</blockquote>
+            <p class="text-red">- Maria Gonzalez</p>
+        </div>
+        
+    </section>
+    
+    
+    <section class="office-location">
+        <h3 class="text-red">Our Office</h3>
+        <p class="text-red">50 BURJ BUILDING,DUBAI,UNITED ARAB EMIRATES</p>
+    </section>
+    
+    
+    <section class="owners">
+        <h3 class="text-red">Meet Our Founders</h3>
+        <p class="text-red">Established on Mar 2000</p>
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="images/owner1.jpeg" class="d-block w-100 carousel-img" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/owner2.jpeg" class="d-block w-100 carousel-img" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/owner3.jpeg" class="d-block w-100 carousel-img" alt="...">
+                </div>
+                
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+</div>

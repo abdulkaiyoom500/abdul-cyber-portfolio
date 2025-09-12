@@ -1,0 +1,116 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using E_Commerce.Models
+@inject SignInManager<AppUser> SignInManager
+@inject UserManager<AppUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewData["Title"] - Mr.Robot E-commerce</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+             
+                <a class="navbar-brand" href="/">
+                    <img src="~/images/Logo.png" alt="Mr.Robot E-commerce" height="30" class="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                       
+                        <li class="nav-item">
+                            <a class="nav-link" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-page="/Products">Products</a>
+                        </li>
+                        @{
+                            if (SignInManager.IsSignedIn(User))
+                            {
+                                var user = await UserManager.GetUserAsync(User);
+                                var roles = await UserManager.GetRolesAsync(user);
+                                if (roles.Contains("Admin"))
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-page="/AdminProducts">Edit Products</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-page="/Cart">Cart</a>
+                                    </li> 
+                                }
+                            }
+                        }
+
+                    </ul>
+                    
+                    <form class="form-inline my-2 my-lg-0" method="get" action="/Search/Search">
+                        <div class="input-group">
+                            <input class="form-control" type="search" placeholder="Search products" aria-label="Search" name="q" style="width: 345px;">
+             <!--           <div class="input-group-append">
+                                <button class="btn btn-outline-black" type="submit">Search</button>
+                            </div>    -->
+                        </div>
+                    </form>
+                </div>
+                <partial name="_LoginPartial" />
+            </div>
+        </nav>
+    </header>
+    
+    <div class="container mt-3">
+        @RenderBody()
+    </div>
+    
+    <footer class="bg-dark text-white mt-4">
+        <div class="container py-4">
+            <div class="row">
+                <div class="col-md-3">
+                    <h5>About</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/AboutUs" class="text-white">About Us</a></li>
+                        <li><a href="/ContactUs" class="text-white">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>Group Companies</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://www.amazon.com" class="text-white" target="_blank">Amazon.com</a></li>
+                        <li><a href="https://www.flipkart.com" class="text-white" target="_blank">Flipkart.com</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>Mail Us</h5>
+                    <p>
+                        50 BURJ BUILDING,DUBAI,UNITED ARAB EMIRATES<br>
+                        HR@MrRobot.com
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <h5>Registered Office Address</h5>
+                    <p>
+                        50 BURJ BUILDING,DUBAI,UNITED ARAB EMIRATES<br>
+                        +44 7423 082436
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("Styles", required: false)
+</body>
+</html>
