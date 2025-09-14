@@ -4,7 +4,7 @@
 Red‑blue lab simulating brute force, DoS, SQLi, XSS, MITM attacks and blue‑team defenses with Snort and firewall hardening.
 
 ## Tools & Skills
-- Kali Linux (Hydra, sqlmap, hping3, arpspoof)
+- Kali Linux (Hydra, sqlmap, hping3, arpspoof, wireshark)
 - Ubuntu Server
 - Snort IDS
 - UFW/iptables
@@ -21,9 +21,9 @@ VMware / VirtualBox with host‑only + NAT networks. One Kali attacker VM, one U
 - `configs/` – Snort rules, UFW policies
 - `pcaps/` – redacted sample traffic (optional)
 
-## Screenshots
+((## Screenshots
 > Place redacted images in `./screenshots/` and reference them:
-![Screenshot](screenshots/example.png)
+![Screenshot](screenshots/example.png))) - need to update images
 
 ## Outcome / What I Learned
 Demonstrated end‑to‑end detection and mitigation of common attack vectors.
