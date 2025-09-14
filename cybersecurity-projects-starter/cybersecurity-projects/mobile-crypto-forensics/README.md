@@ -21,9 +21,9 @@ Use lawful test images or synthetic data; never upload real personal data.
 - `notes.md` – analysis notes
 - `correlation-examples/` – synthetic mapping examples
 
-## Screenshots
+((## Screenshots
 > Place redacted images in `./screenshots/` and reference them:
-![Screenshot](screenshots/example.png)
+![Screenshot](screenshots/example.png))) - need to add images
 
 ## Outcome / What I Learned
 Demonstrated device forensics and financial tracing techniques.
