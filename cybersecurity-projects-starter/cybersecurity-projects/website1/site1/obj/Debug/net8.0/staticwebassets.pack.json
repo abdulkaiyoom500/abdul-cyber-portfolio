@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SOFT40081_StarterCode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SOFT40081_StarterCode.bundle.scp.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\cloud security.jpg",
+      "PackagePath": "staticwebassets\\images\\cloud security.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\firewall1.jpg",
+      "PackagePath": "staticwebassets\\images\\firewall1.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\firewall2.png",
+      "PackagePath": "staticwebassets\\images\\firewall2.png"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\firewall3.png",
+      "PackagePath": "staticwebassets\\images\\firewall3.png"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\firewall4.jpg",
+      "PackagePath": "staticwebassets\\images\\firewall4.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\firewall5.png",
+      "PackagePath": "staticwebassets\\images\\firewall5.png"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\latest cybersecurity trends.jpg",
+      "PackagePath": "staticwebassets\\images\\latest cybersecurity trends.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\prevent phishing attacks.jpg",
+      "PackagePath": "staticwebassets\\images\\prevent phishing attacks.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\images\\protecting your data.jpg",
+      "PackagePath": "staticwebassets\\images\\protecting your data.jpg"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "I:\\Other People Projects\\ARUN\\arun 110 no cart\\StarterCode\\SOFT40081_StarterCode\\SOFT40081_StarterCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SOFT40081_StarterCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SOFT40081_StarterCode.props",
+      "PackagePath": "build\\SOFT40081_StarterCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SOFT40081_StarterCode.props",
+      "PackagePath": "buildMultiTargeting\\SOFT40081_StarterCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SOFT40081_StarterCode.props",
+      "PackagePath": "buildTransitive\\SOFT40081_StarterCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

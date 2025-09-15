@@ -1,0 +1,22 @@
+﻿@page
+@model SOFT40081_StarterCode.Pages.addProductModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<form action="" method="post">
+    <label for="pname" asp-for="@Model.Product.Name">Product Name:</label><br>
+    <input type="text" asp-for="@Model.Product.Name" id="pname"><br><br>
+
+    <label for="pdescription" asp-for="@Model.Product.Description">Description:</label><br>
+    <input type="text" asp-for="@Model.Product.Description" id="pdescription"><br><br>
+
+    <label for="price" asp-for="@Model.Product.Price">Price:</label><br>
+    <input type="text" asp-for="@Model.Product.Price" id="price" value=""><br><br>
+
+    <label for="pimage" asp-for="@Model.Product.ProductImage">Image Name:</label><br>
+    <input type="text" asp-for="@Model.Product.ProductImage" id="pimage" value=""><br><br>
+
+    <input type="submit" value="Submit">
+</form>
